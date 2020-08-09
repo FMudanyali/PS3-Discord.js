@@ -1,5 +1,6 @@
 # PS3 Discord Rich Presence
 Adds Discord rich presence to your PS3 without relying on PSN.
+![image](https://i.ibb.co/B4K4bmd/image.png)
 
 # How to Use
 - Install node.js if you haven't
