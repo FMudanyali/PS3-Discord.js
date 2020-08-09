@@ -3,6 +3,7 @@ Adds Discord rich presence to your PS3 without relying on PSN.
 
 # How to Use
 - Install node.js if you haven't
+- Install (webMAN-MOD)[https://github.com/aldostools/webMAN-MOD] on your PS3 if you haven't
 - Add your PS3 IP in config.json
 - `npm install` (first time only)
 - `npm start`
