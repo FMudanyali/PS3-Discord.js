@@ -11,3 +11,4 @@ Adds Discord rich presence to your PS3 without relying on PSN.
 - [Yowai_dev](https://github.com/Yowai-dev/PS3-Discord) for the initial python3 version.
 - The authors of [discord.js](https://github.com/discordjs/discord.js/).
 - The authors of [discord-rpc](https://github.com/discordjs/RPC).
+- The authors of [node-fetch](https://github.com/node-fetch/node-fetch).
