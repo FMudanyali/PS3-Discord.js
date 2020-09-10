@@ -9,6 +9,9 @@ Adds Discord rich presence to your PS3 without relying on PSN.
 - `npm install` (first time only)
 - `npm start`
 
+# Additional Notes for WSL
+If you're trying to run this under WSL, you have to install node.js in your Windows.
+
 ## Credits
 - [Yowai_dev](https://github.com/Yowai-dev/PS3-Discord) for the initial python3 version.
 - The authors of [discord.js](https://github.com/discordjs/discord.js/).
